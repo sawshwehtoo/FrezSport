@@ -1,7 +1,7 @@
 {
-  "Name":"Frez Sport",
-  "Version":"0.1",
-  "Permission":"Y",
+  "name":"Frez Sport",
+  "version":"0.1",
+  "permission":"Y",
   "admob":{
     "banner":"ca-app-pub-3940256099942544/6300978111",
     "interstitial":"ca-app-pub-3940256099942544/1033173712",
